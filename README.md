@@ -171,7 +171,7 @@
 
 · 《内核漏洞的利用与防范》【美】Enrico Perla；Massimiliano Oldani（著）
 
-· 《Fuzzing for Software Security Testing and Quality Assurance（第2版）》【美】Charlie Miller（著）
+· 《Fuzzing for Software Security Testing and Quality Assurance（第2版）》【美】Charlie Miller（著），博文视点翻译中
 
 · 《iOS Hackers's Handbook》【美】Charlie Miller（著），不推荐中文版
 
@@ -179,7 +179,7 @@
 
 · 《Android安全攻防权威指南》【美】Joshua J.Drake；【西】Pau Oliva Fora；【美】Collin Mulliner（著）
 
-· 《The Art of Softwar Security Assessment:Identifying and Preventing Software Vulnerabilities》【美】Mark Dowd（著），博文视点翻译中
+· 《The Art of Softwar Security Assessment:Identifying and Preventing Software Vulnerabilities》【美】Mark Dowd（著）
 
 · 《Android安全攻防实战》【美】Keith Makan；Scott Alexander-Bow你（著）
 
