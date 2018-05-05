@@ -2,6 +2,8 @@
 
 【注：此处不区分`著`与`编著`，注明作者是方便大家找书，因为可能存在相同书名的书籍】
 
+书单均是个人看过或者业界认可的经典书籍，跟网上罗列的安全书单不同，并非把网店上的任何安全书籍都罗列上的。如果你有何好书推荐可在issues上提交，或者提交合并，待我看过之后，如果觉得可以就会在此处更新，这里也不定期更新书单。
+
 ![](./2018年信息安全从业者书单推荐.jpg)
 
 # 计算机及系统原理
@@ -181,7 +183,7 @@
 
 · 《The Art of Softwar Security Assessment:Identifying and Preventing Software Vulnerabilities》【美】Mark Dowd（著）
 
-· 《Android安全攻防实战》【美】Keith Makan；Scott Alexander-Bow你（著）
+· 《Android安全攻防实战》【美】Keith Makan；Scott Alexander-Bow（著）
 
 · 《模糊测试-强制性安全漏洞挖掘》【美】Michael Mutton（著）
 
@@ -189,7 +191,9 @@
 
 · 《MacOS and iOS Internals,Volume Ⅲ: Security & Insecurity》【美】Jonathan Levin（著），博文视点翻译中，预计今年上市
 
-· 《灰帽黑客：正义黑客的道德规范、渗透测试、攻击方法和咯东分析技术》【美】Allen Harper；Shon harris（著）
+· 《灰帽黑客：正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术》【美】Allen Harper；Shon harris（著）
+
+· 《威胁建模：设计和交付更安全的软件》【美】Adam Shostack (著)
 
 ## 无线电安全
 · 《无线电安全攻防大揭秘》杨卿；黄琳（著）
