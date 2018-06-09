@@ -221,8 +221,6 @@
 
 · 《横向领导力》【美】Roger Fisher；Alan Sharpe（著）
 
-· 《内向者沟通圣经》【美】Jennifer Kahnweiler（著）
-
 · 《职业情商》张新越（著）
 
 · 《程序员的成长课》安晓辉；周鹏（著）
