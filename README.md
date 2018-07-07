@@ -171,6 +171,8 @@
 
 · 《捉虫日记》【德】Tobias Klein，进阶书籍
 
+· 《黑客防线2009缓冲区溢出攻击与防范专辑》
+
 · 《内核漏洞的利用与防范》【美】Enrico Perla；Massimiliano Oldani
 
 · 《Fuzzing for Software Security Testing and Quality Assurance（第2版）》【美】Charlie Miller，博文视点翻译中
