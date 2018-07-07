@@ -79,6 +79,8 @@
 
 · 《Intel开发手册》
 
+· 《汇编语言（第3版）》王爽
+
 ### Java
 · 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
 
