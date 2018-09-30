@@ -47,7 +47,7 @@
 
 · 《Linux设备驱动程序》【美】Jonathan Corbet；Alessandro Rubini；Gerg Kroah-Hartman
 
-### MAC OS/iOS
+### macOS/iOS
 · 《iOS编程》【美】Christian Keur；Aaron Hillegass
 
 · 《OS X与iOS内核编程）【澳】Halvorsen,O.H.；Clarke,D
