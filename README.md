@@ -208,6 +208,17 @@
 
 · 《汽车黑客大曝光》【美】Craig Smith
 
+# 产品
+· 《人人都是产品经理》苏杰
+
+# 运营
+· 《运营之光2.0：我的互联网运营方法论与自白》黄有璨
+
+# 设计
+· 《写给大家看的设计书》【美】Robin Williams
+
+· 《听故事，学PPT设计》杨雪
+
 # 软技能
 · 《软技能：代码之外的生存指南》【美】John Sonmez
 
@@ -216,10 +227,6 @@
 · 《影响力》【美】Robert B.Cialdini
 
 · 《穷爸爸富爸爸》【美】Robert Toru Kiyosaki
-
-· 《写给大家看的设计书》【美】Robin Williams
-
-· 《听故事，学PPT设计》杨雪
 
 · 《横向领导力》【美】Roger Fisher；Alan Sharpe
 
