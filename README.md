@@ -81,6 +81,8 @@
 
 · 《汇编语言（第3版）》王爽
 
+· 《x86汇编语言：从实模式到保护模式》李忠
+
 ### Java
 · 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
 
