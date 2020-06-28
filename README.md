@@ -25,7 +25,7 @@
 
 · 《Android Dalvik虚拟机结构及机制剖析（第1、2卷）》吴艳霞；张国印
 
-· 《Android Internals::Power User's View》【美】Jonathan Levin，中文书名《最强Android书：架构大剖析》已上架
+· 《Android Internals::Power User's View》【美】Jonathan Levin，中译本《最强Android书：架构大剖析》
 
 # 编程开发
 ## 系统平台
@@ -203,7 +203,7 @@
 
 · 《Exploit编写系列教程》【美】Corelan Team
 
-· 《MacOS and iOS Internals,Volume Ⅲ: Security & Insecurity》【美】Jonathan Levin，博文视点翻译中，预计今年上市
+· 《MacOS and iOS Internals,Volume Ⅲ: Security & Insecurity》【美】Jonathan Levin，博文视点翻译中
 
 · 《灰帽黑客：正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术》【美】Allen Harper；Shon harris
 
