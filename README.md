@@ -43,8 +43,6 @@
 
 · 《Linux程序设计》【美】Neil Matthew；Richard Stones
 
-· 《鸟哥的Linux私房菜》鸟哥
-
 · 《Linux设备驱动程序》【美】Jonathan Corbet；Alessandro Rubini；Gerg Kroah-Hartman
 
 ### macOS/iOS
@@ -93,6 +91,8 @@
 
 · 《JavaScript高级程序设计》【美】Zakas.Bicholas C.
 
+· 《Vue.js项目开发实战》张帆
+
 ### Python
 · 《Python核心编程（第2版）》【美】Wesley J·Chun
 
@@ -111,10 +111,16 @@
 
 · 《算法导论》【美】Thomas H.Cormen；Chales E.Leiserson；Ronald l.Rivest
 
+· 《我的第一本算法书》【日】宫崎修一；石田保辉，入门书籍，无代码进行图解
+
+· 《算法图解：像小说一样有趣的算法入门书》【美】Aditya Bhargava
+
 ## 编译原理
 · 《编译系统透视：图解编译原理》新设计团队，入门书籍
 
 · 《编译原理》（龙书）【美】Alfered V.Aho；Monica S.Lam；Ravi Sehi；Jeffrey D.Ullmam
+
+· 《编译与反编译技术实战》庞建民
 
 ## 其他
 · 《编程高手箴言》梁肇新
@@ -122,6 +128,8 @@
 · 《代码整洁之道》【美】Robert C.Martin
 
 · 《代码大全》【美】Steve McConnell
+
+· 《重构：改善既有代码的设计》【美】Martin Fowler
 
 # 网络技术
 · 《TCP/IP详解（卷1：协议）》【美】Kevin R.fall；W.Richard Stevens
@@ -141,6 +149,8 @@
 · 《寒江独钓：Windows内核安全编程》谭文；杨潇；邵坚磊
 
 ## 逆向工程
+· 《加密与解密》段钢
+
 · 《恶意软件分析诀窍与工具箱——对抗“流氓”软件的技术与利器》【美】Michael Hale Ligh；Steven Adair
 
 · 《C++反汇编与逆向分析技术揭秘》钱林松；赵海旭
@@ -187,7 +197,7 @@
 
 · 《The Art of Softwar Security Assessment:Identifying and Preventing Software Vulnerabilities》【美】Mark Dowd
 
-· 《Android安全攻防实战》【美】Keith Makan；Scott Alexander-Bow
+· 《Android Security Cookbook》【美】Keith Makan; Scott Alexander-Bown，中译本《Android安全攻防实战》
 
 · 《模糊测试-强制性安全漏洞挖掘》【美】Michael Mutton
 
@@ -220,6 +230,11 @@
 · 《写给大家看的设计书》【美】Robin Williams
 
 · 《听故事，学PPT设计》杨雪
+
+# 运维
+· 《Docker技术入门与实战》杨保华；戴王剑；曹亚仑
+
+· 《鸟哥的Linux私房菜》鸟哥
 
 # 软技能
 · 《软技能：代码之外的生存指南》【美】John Sonmez
@@ -256,4 +271,6 @@
 
 · 《浪潮之巅》（上下册）吴军
 
-· 《一本小小的蓝色逻辑书》【加】布兰登•罗伊尔著 
+· 《一本小小的蓝色逻辑书》【加】布兰登•罗伊尔
+
+· 《精进：如何成为一个很厉害的人》采铜
