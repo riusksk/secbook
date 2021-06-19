@@ -155,7 +155,7 @@
 
 · 《C++反汇编与逆向分析技术揭秘》钱林松；赵海旭
 
-· 《IDA权威指南》【美】Chris Eagle
+· 《IDA Pro权威指南》【美】Chris Eagle
 
 · 《逆向工程权威指南》【乌克兰】Dennis Yurichev，多平台入门大全
 
