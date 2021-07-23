@@ -9,7 +9,7 @@
 
 · 《深入理解计算机系统》【美】Randal E.Bryant
 
-· 《深入理解Windows操作系统》【美】Russinovich,M.E.；Solomon,D.A.
+· 《深入解析Windows操作系统》【美】Russinovich,M.E.；Solomon,D.A.
 
 · 《Linux内核设计与实现》【美】Robert Love
 
