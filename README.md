@@ -23,6 +23,10 @@
 
 · 《深入理解Linux内核》 【美】DanielP.Bovet
 
+· 《深入Linux内核架构》 【德】Wolfgang Mauerer
+
+· 《Linux内核设计与实现》 【美】Robert Love
+
 · 《代码揭秘：从C/C++的角度探秘计算机系统》左飞
 
 · 《Android Dalvik虚拟机结构及机制剖析（第1、2卷）》吴艳霞；张国印
@@ -85,6 +89,8 @@
 
 · 《x86汇编语言：从实模式到保护模式》李忠
 
+· 《See MIPS Run Linux》D. Sweetman
+
 ### Java
 · 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
 
@@ -100,6 +106,8 @@
 
 ### Shell
 · 《Linux Shell脚本攻略》【印】Sarath Lakshman
+
+· 《Linux命令行与shell脚本编程大全》【美】Richard Blum,Christine Bresnahan
 
 ## 调试技术
 · 《软件调试》张银奎
@@ -130,6 +138,7 @@
 
 · 《Wireshark数据包分析实战》【美】Chris Sanders
 
+· 《HTTP权威指南》【美】David Gourley, Brian Totty,Marjorie Sayer, Sailu Reddy, Anshu Aggaral
 # 安全技术
 ## 安全开发
 · 《天书夜读：从汇编语言到Windows内核编程》谭文；邵坚磊
@@ -157,6 +166,12 @@
 
 · 《iOS应用逆向工程（第2版）》沙梓社；吴航
 
+· 《逆向工程核心原理》【韩】李承远
+
+· 《恶意代码分析实战》 Michael Sikorski Andrew Honig
+
+· 《Linux二进制分析》 【美】 Ryan O'Neill
+
 ## Web安全
 · 《黑客攻防技术宝典：Web实战篇》【美】Marcus Pinto，Dafydd Stuttard
 
@@ -167,6 +182,8 @@
 · 《Web前端黑客技术揭秘》钟晨鸣；徐少培
 
 · 《精通脚本黑客》曾云好
+
+· 《Web安全开发指南》【美】John Paul Mueller
 
 ## 软件/系统安全
 · 《0day安全：软件漏洞分析技术（第2版）》王清，入门书籍
@@ -201,11 +218,18 @@
 
 · 《威胁建模：设计和交付更安全的软件》【美】Adam Shostack
 
+## 电子取证
+· 《The Art of Memory Forensics》Michael Hale Ligh,Andrew Case,Jamie Levy,Aaron Walters
+
+· 《Windows取证分析》【美】Harlan Carvey
+
 ## 无线电安全
 · 《无线电安全攻防大揭秘》杨卿；黄琳
 
 ## 硬件安全
 · 《硬件安全攻防大揭秘》简云定，杨卿
+
+· 《揭秘家用路由器 0day 漏洞挖掘技术》 吴少华
 
 ## 汽车安全
 · 《智能汽车安全攻防大揭秘》李均；杨卿
