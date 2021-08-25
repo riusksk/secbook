@@ -11,7 +11,7 @@
 
 · 《深入理解Windows操作系统》【美】Russinovich,M.E.；Solomon,D.A.
 
-· 《计算机组成与设计·硬件/软件接口》 【美】David A. Patterson；John L. Hennessy
+· 《计算机组成与设计：硬件/软件接口》 【美】David A. Patterson；John L. Hennessy
 
 · 《Linux内核设计与实现》【美】Robert Love
 
@@ -20,10 +20,6 @@
 · 《Android系统源代码情景分析》罗升阳
 
 · 《深入理解Mac OS X & iOS操作系统》【美】Jonathan Levin
-
-· 《深入理解Linux内核》 【美】DanielP.Bovet
-
-· 《深入Linux内核架构》 【德】Wolfgang Mauerer
 
 · 《Linux内核设计与实现》 【美】Robert Love
 
@@ -89,7 +85,7 @@
 
 · 《x86汇编语言：从实模式到保护模式》李忠
 
-· 《See MIPS Run Linux》D. Sweetman
+· 《MIPS体系结构透视》【英】Dominic Sweetman
 
 ### Java
 · 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
@@ -166,8 +162,6 @@
 
 · 《iOS应用逆向工程（第2版）》沙梓社；吴航
 
-· 《逆向工程核心原理》【韩】李承远
-
 · 《恶意代码分析实战》 Michael Sikorski Andrew Honig
 
 · 《Linux二进制分析》 【美】 Ryan O'Neill
@@ -182,8 +176,6 @@
 · 《Web前端黑客技术揭秘》钟晨鸣；徐少培
 
 · 《精通脚本黑客》曾云好
-
-· 《Web安全开发指南》【美】John Paul Mueller
 
 ## 软件/系统安全
 · 《0day安全：软件漏洞分析技术（第2版）》王清，入门书籍
@@ -220,8 +212,6 @@
 
 ## 电子取证
 · 《The Art of Memory Forensics》Michael Hale Ligh,Andrew Case,Jamie Levy,Aaron Walters
-
-· 《Windows取证分析》【美】Harlan Carvey
 
 ## 无线电安全
 · 《无线电安全攻防大揭秘》杨卿；黄琳
