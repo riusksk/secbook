@@ -21,8 +21,6 @@
 
 · 《深入理解Mac OS X & iOS操作系统》【美】Jonathan Levin
 
-· 《Linux内核设计与实现》 【美】Robert Love
-
 · 《代码揭秘：从C/C++的角度探秘计算机系统》左飞
 
 · 《Android Dalvik虚拟机结构及机制剖析（第1、2卷）》吴艳霞；张国印
