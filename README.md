@@ -196,7 +196,7 @@
 
 · 《内核漏洞的利用与防范》【美】Enrico Perla；Massimiliano Oldani
 
-· 《Fuzzing for Software Security Testing and Quality Assurance（第2版）》【美】Charlie Miller，博文视点翻译中
+· 《Fuzzing for Software Security Testing and Quality Assurance（第2版）》【美】Charlie Miller
 
 · 《iOS Hackers's Handbook》【美】Charlie Miller，不推荐中文版
 
@@ -212,7 +212,7 @@
 
 · 《Exploit编写系列教程》【美】Corelan Team
 
-· 《MacOS and iOS Internals,Volume Ⅲ: Security & Insecurity》【美】Jonathan Levin，博文视点翻译中
+· 《MacOS and iOS Internals,Volume Ⅲ: Security & Insecurity》【美】Jonathan Levin，中译本《最强iOS和macOS安全宝典》
 
 · 《灰帽黑客：正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术》【美】Allen Harper；Shon harris
 
