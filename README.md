@@ -11,6 +11,8 @@
 
 · 《深入解析Windows操作系统》【美】Russinovich,M.E.；Solomon,D.A.
 
+· 《计算机组成与设计：硬件/软件接口》 【美】David A. Patterson；John L. Hennessy
+
 · 《Linux内核设计与实现》【美】Robert Love
 
 · 《深入理解Android内核设计思想》林学森
@@ -19,7 +21,7 @@
 
 · 《深入理解Mac OS X & iOS操作系统》【美】Jonathan Levin
 
-· 《深入理解Linux内核》 【美】DanielP.Bovet
+· 《Linux内核设计与实现》 【美】Robert Love
 
 · 《代码揭秘：从C/C++的角度探秘计算机系统》左飞
 
@@ -81,6 +83,8 @@
 
 · 《x86汇编语言：从实模式到保护模式》李忠
 
+· 《MIPS体系结构透视》【英】Dominic Sweetman
+
 ### Java
 · 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
 
@@ -98,6 +102,8 @@
 
 ### Shell
 · 《Linux Shell脚本攻略》【印】Sarath Lakshman
+
+· 《Linux命令行与shell脚本编程大全》【美】Richard Blum,Christine Bresnahan
 
 ## 调试技术
 · 《软件调试》张银奎
@@ -136,6 +142,7 @@
 
 · 《Wireshark数据包分析实战》【美】Chris Sanders
 
+· 《HTTP权威指南》【美】David Gourley, Brian Totty,Marjorie Sayer, Sailu Reddy, Anshu Aggaral
 # 安全技术
 ## 安全开发
 · 《天书夜读：从汇编语言到Windows内核编程》谭文；邵坚磊
@@ -164,6 +171,10 @@
 · 《macOS软件安全与逆向分析》丰生强
 
 · 《iOS应用逆向工程（第2版）》沙梓社；吴航
+
+· 《恶意代码分析实战》 Michael Sikorski Andrew Honig
+
+· 《Linux二进制分析》 【美】 Ryan O'Neill
 
 ## Web安全
 · 《黑客攻防技术宝典：Web实战篇》【美】Marcus Pinto，Dafydd Stuttard
@@ -209,11 +220,16 @@
 
 · 《威胁建模：设计和交付更安全的软件》【美】Adam Shostack
 
+## 电子取证
+· 《The Art of Memory Forensics》Michael Hale Ligh,Andrew Case,Jamie Levy,Aaron Walters
+
 ## 无线电安全
 · 《无线电安全攻防大揭秘》杨卿；黄琳
 
 ## 硬件安全
 · 《硬件安全攻防大揭秘》简云定；杨卿
+
+· 《揭秘家用路由器 0day 漏洞挖掘技术》 吴少华
 
 ## 汽车安全
 · 《智能汽车安全攻防大揭秘》李均；杨卿
