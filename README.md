@@ -27,6 +27,8 @@
 
 · 《Android Internals::Power User's View》【美】Jonathan Levin，中译本《最强Android书：架构大剖析》
 
+· 《程序员的自我修养——链接、装载与库》俞甲子；石凡；潘爱民
+
 # 编程开发
 ## 系统平台
 ### Windows
@@ -102,6 +104,9 @@
 · 《Linux Shell脚本攻略》【印】Sarath Lakshman
 
 · 《Linux命令行与shell脚本编程大全》【美】Richard Blum,Christine Bresnahan
+
+### Golang
+· 《Go语言入门经典》【英】George Ornbo
 
 ## 调试技术
 · 《软件调试》张银奎
