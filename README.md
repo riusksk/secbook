@@ -223,6 +223,8 @@
 
 · 《威胁建模：设计和交付更安全的软件》【美】Adam Shostack
 
+· 《Mastering Metasploit, Third Edition》【英】Nipun Jaswal，中译本《精通Metasploit渗透测试（第3版）》
+
 ## 电子取证
 · 《The Art of Memory Forensics》Michael Hale Ligh,Andrew Case,Jamie Levy,Aaron Walters
 
