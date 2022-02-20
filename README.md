@@ -108,6 +108,8 @@
 ### Golang
 · 《Go语言入门经典》【英】George Ornbo
 
+· 《Go语言设计与实现》左书祺
+
 ## 调试技术
 · 《软件调试》张银奎
 
@@ -178,6 +180,8 @@
 · 《恶意代码分析实战》 Michael Sikorski Andrew Honig
 
 · 《Linux二进制分析》 【美】 Ryan O'Neill
+
+· 《二进制分析实战》【荷】Dennis Andriesse
 
 ## Web安全
 · 《黑客攻防技术宝典：Web实战篇》【美】Marcus Pinto，Dafydd Stuttard
@@ -256,46 +260,14 @@
 
 · 《听故事，学PPT设计》杨雪
 
-# 运维
+# 云原生
 · 《Docker技术入门与实战》杨保华；戴王剑；曹亚仑
 
+· 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正等
+
+· 《云原生安全：攻防实践与体系构建》刘文懋；江国龙；浦明等
+
+· 《Hacking Kubernetes: Threat-Driven Analysis and Defense》 Andrew Martin; Michael Hausenblas
+
+# 运维
 · 《鸟哥的Linux私房菜》鸟哥
-
-# 软技能
-· 《软技能：代码之外的生存指南》【美】John Sonmez
-
-· 《程序员健康指南》【美】JoeKutner
-
-· 《影响力》【美】Robert B.Cialdini
-
-· 《穷爸爸富爸爸》【美】Robert Toru Kiyosaki
-
-· 《横向领导力》【美】Roger Fisher；Alan Sharpe
-
-· 《职业情商》张新越
-
-· 《程序员的成长课》安晓辉；周鹏
-
-· 《高效演讲：斯坦福最受欢迎的沟通课》【美】Peter Meyers；Shann Nix
-
-· 《程序员的英语》【韩】朴栽浒；李海永
-
-· 《思考，快与慢》【美】丹尼尔·卡尼曼
-
-· 《少有人走的路》【美】斯科特·派克
-
-· 《异类：不一样的成功启示录》【加】 马尔科姆·格拉德威尔 
-
-· 《见识》吴军
-
-· 《英语写作手册：风格的要素》【美】William Strunk
-
-· 《非暴力沟通》【美】马歇尔·卢森堡 
-
-· 《风格感觉：21世纪写作指南》【美】史蒂芬·平克
-
-· 《浪潮之巅》（上下册）吴军
-
-· 《一本小小的蓝色逻辑书》【加】布兰登·罗伊尔
-
-· 《精进：如何成为一个很厉害的人》采铜
