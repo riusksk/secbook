@@ -4,6 +4,33 @@
 
 ![](./信息安全从业者书单推荐.png)
 
+# 人工智能
+· 《Python深度学习》 François Chollet
+
+· 《机器学习实战：基于Scikit-Learn、Keras和Tensorflow》 【法】Aurélien Géron
+
+· 《动手学深度学习》 阿斯顿·张；扎卡里 C. 立顿；李沐；亚历山大 J. 斯莫拉
+
+· 《Python神经网络编程》 【英】Tariq Rashid
+
+· 《Python机器学习：基于PyTorch和Scikit-Learn》 【美】 塞巴斯蒂安·拉施卡；【美】刘玉溪；【美】瓦希德·米尔贾利利
+
+· 《特征工程入门与实践》 Sinan Ozdemir； Divya Susarla
+
+· 《从零构建知识图谱：技术、方法与案例》 邵浩；张凯；李方圆；张去柯；戴锡强
+
+· 《Python中文自然语言处理基础与实战》 肖刚；张良均
+
+· 《PyTorch生成对抗网络编程》 【英】Tariq Rashid
+
+· 《科学之路》 【法】Yann LeCun
+
+· 《深度学习》Lan Goodfellow；Yoshua Bengio；Aaron Courville
+
+· 《AI安全技术与实战》 腾讯朱雀实验室
+
+· 《BERT基础教程：Transformer大模型实战》 【印】Sudharsan Ravichandiran
+
 # 计算机及系统原理
 · 《编码：隐匿在计算机软硬件背后的语言》 【美】Charles Petzold
 
@@ -137,6 +164,10 @@
 · 《编程高手箴言》梁肇新
 
 · 《代码整洁之道》【美】Robert C.Martin
+
+· 《架构整洁之道》【美】Robert C.Martin
+
+· 《大话设计模式》程杰
 
 · 《代码大全》【美】Steve McConnell
 
