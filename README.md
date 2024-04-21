@@ -110,8 +110,6 @@
 
 · 《x86汇编语言：从实模式到保护模式》李忠
 
-· 《MIPS体系结构透视》【英】Dominic Sweetman
-
 ### Java
 · 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
 
@@ -126,6 +124,8 @@
 
 ### Python
 · 《Python核心编程（第2版）》【美】Wesley J·Chun
+
+· 《流畅的Python》 【巴西】 Luciano Ramalho
 
 ### Shell
 · 《Linux Shell脚本攻略》【印】Sarath Lakshman
@@ -179,6 +179,7 @@
 · 《Wireshark数据包分析实战》【美】Chris Sanders
 
 · 《HTTP权威指南》【美】David Gourley, Brian Totty,Marjorie Sayer, Sailu Reddy, Anshu Aggaral
+
 # 安全技术
 ## 安全开发
 · 《天书夜读：从汇编语言到Windows内核编程》谭文；邵坚磊
